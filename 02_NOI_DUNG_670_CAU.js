@@ -5210,7 +5210,7 @@ window.GLHTCG_NOI_DUNG = {
       "lesson": 65,
       "part": 3,
       "question": "Vì sao điều răn thứ sáu chỉ nói “Ngươi không được ngoại tình”, lại ngăn cấm tất cả các tội nghịch lại đức khiết tịnh?",
-      "answer": "Vì truyền thống Hội Thánh vẫn theo sát các giáo huấn luân lý của Cựu ước và Tân ước, luôn xem điều răn thứ sáu cũng bao gồm tất cả các tội nghịch lại đức khiết tịnh. [493]"
+      "answer": "Vì Truyền thống Hội Thánh vẫn theo sát các giáo huấn luân lý của Cựu ước và Tân ước, luôn xem điều răn thứ sáu cũng bao gồm tất cả các tội nghịch lại đức khiết tịnh. [493]"
     },
     {
       "id": 543,
