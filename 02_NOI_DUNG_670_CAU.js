@@ -3824,7 +3824,7 @@ window.GLHTCG_NOI_DUNG = {
       "lesson": 42,
       "part": 2,
       "question": "Đức Kitô đem lại cho hôn nhân điều mới mẻ nào?",
-      "answer": "Đức Ki-tô không những lập lại quy định từ ban đầu của Thiên Chúa, mà con nâng hôn nhân lên hàng bí tích, nghĩa là thành dấu chỉ về tình yêu phu thê của Ngài đối với Hội Thánh. [341]"
+      "answer": "Đức Ki-tô không những lập lại quy định từ ban đầu của Thiên Chúa, mà còn nâng hôn nhân lên hàng bí tích, nghĩa là thành dấu chỉ về tình yêu phu thê của Ngài đối với Hội Thánh. [341]"
     },
     {
       "id": 345,
