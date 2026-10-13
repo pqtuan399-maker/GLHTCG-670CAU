@@ -3901,7 +3901,7 @@ window.GLHTCG_NOI_DUNG = {
       "lesson": 42,
       "part": 2,
       "question": "Hội Thánh có thái độ nào đối với những người đã ly dị tái hôn?",
-      "answer": "Hội Thánh không thể công nhận hôn nhân của những người đã ly dị tái hôn, nhưng vẫn ân cần chăm sóc, mời gọi họ duy trì đời sống đức tin, cầu nguyện, thực hành các việc bác ái và chăm lo giáo dục con cái theo Kitô giáo. Bao lâu tình trạng này kéo dài, bấy lâu họ không thể xưng tội, rước lễ và đảm nhận một số trách nhiệm trong Hội Thánh. [349]"
+      "answer": "Hội Thánh không thể công nhận hôn nhân của những người đã ly dị tái hôn, nhưng vẫn ân cần chăm sóc và mời gọi họ duy trì đời sống đức tin, cầu nguyện, thực hành các việc bác ái và chăm lo giáo dục con cái theo tinh thần Kitô giáo. Bao lâu tình trạng này kéo dài, bấy lâu họ không thể xưng tội, rước lễ và đảm nhận một số trách nhiệm trong Hội Thánh. [349]"
     },
     {
       "id": 356,
