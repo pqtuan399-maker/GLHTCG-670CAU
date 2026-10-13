@@ -3852,7 +3852,7 @@ window.GLHTCG_NOI_DUNG = {
       "lesson": 42,
       "part": 2,
       "question": "Muốn lãnh Bí tích Hôn Phối phải có những điều kiện nào?",
-      "answer": "Muốn lãnh Bí tích Hôn Phối phải có những điều kiện này:\n  - Một là đã lãnh nhận Bí tích Rửa Tội;\n  - Hai là không bị ngăn trở bởi luật tự nhiên và luật Hội Thánh;\n  - Ba là hiểu biết về Bí tích Hôn Phối và đời sống gia đình;\n  - Bốn là có tự do kết hôn và công khai nói lên sự ưng thuận của mình theo nghi thức Hội Thánh. [GLHTCG 1625]"
+      "answer": "Muốn lãnh Bí tích Hôn Phối Phải có những điều kiện này:\n  - Một là đã lãnh nhận Bí tích Rửa Tội;\n  - Hai là không bị ngăn trở bởi luật tự nhiên và luật Hội Thánh;\n  - Ba là hiểu biết về Bí tích Hôn Phối và đời sống gia đình;\n  - Bốn là có tự do kết hôn và công khai nói lên sự ưng thuận của mình theo nghi thức Hội Thánh. [GLHTCG 1625]"
     },
     {
       "id": 349,
