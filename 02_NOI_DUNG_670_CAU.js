@@ -3831,7 +3831,7 @@ window.GLHTCG_NOI_DUNG = {
       "lesson": 42,
       "part": 2,
       "question": "Bí tích Hôn Phối là gì?",
-      "answer": "Là bí tích Chúa Giêsu đã lập, để kết hợp hai người tín hữu một nam một nữ thành vợ chồng trước mặt Thiên Chúa và Hội Thánh, cùng ban ân sủng để họ yêu thương nhau, như Ngài đã yêu thương Hội Thánh. [337]"
+      "answer": "Là bí tích Đức Chúa Giêsu đã lập, để kết hợp hai người tín hữu một nam một nữ thành vợ chồng trước mặt Thiên Chúa và Hội Thánh, cùng ban ân sủng để họ yêu thương nhau, như Ngài đã yêu thương Hội Thánh. [337]"
     },
     {
       "id": 346,
